@@ -3,4 +3,5 @@ pytubefix
 ffmpeg-python
 pydub
 requests
-
+yt-dlp
+ffmpeg
